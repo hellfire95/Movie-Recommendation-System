@@ -32,6 +32,7 @@ Data taken from IBM object storage.
 ## User Input
 
 Input Data from the user with Ratings.
+
 ![user input](https://github.com/hellfire95/Movie-Recommendation-System/blob/main/user%20Input_data%20.png?raw=true)
 
 ## Final Recommendation Table 
